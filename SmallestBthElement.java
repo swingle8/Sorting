@@ -1,3 +1,5 @@
+//solved the same questoin with Binary search in the searching repo.
+// Here solving it using Selection Sort with high time complexity
 public class Solution {
     // DO NOT MODIFY THE LIST. IT IS READ ONLY
     public int kthsmallest(final List<Integer> A, int B) {
